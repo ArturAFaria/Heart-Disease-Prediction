@@ -6,10 +6,7 @@ Preventing Heart diseases has become more than necessary. Good data-driven syste
 
 <h1 align="center">📄 Methodology</h1>
 
-1. Data collection methodology
-- Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
-
-2. I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
+1. I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
 Machine Learning algorithms used:
 
