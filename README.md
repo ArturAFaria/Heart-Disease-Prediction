@@ -1,7 +1,8 @@
 # 🚀 Heart-Disease-Prediction
 
 <h1 align="center">📄 Project Background</h1>
-The project involved analysis of the heart disease patient dataset with proper data processing. Then, different models were trained and and predictions are made with different algorithms KNN, Decision Tree, Random Forest,SVM,Logistic Regression.
+Heart Diseases are too risky for a human being, from a given data we will predict that person have heart disease or not with the help of Machine Learning. 
+Preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
 
 <h1 align="center">📄 Methodology</h1>
 
